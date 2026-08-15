@@ -20,7 +20,7 @@ class VueloSerializer(serializers.ModelSerializer):
             "id", 
             "gate_id", 
             "flight_number", 
-            "detination", 
+            "destination", 
             "status", 
             "departure_time", 
             "created_at"
